@@ -46,7 +46,7 @@ O JobGrid transforma isso numa **lista de links prontos**. Cada linha é uma bus
 
 ### Online (GitHub Pages)
 
-Acesse: **`https://<seu-usuario>.github.io/<nome-do-repo>/`**
+Acesse: **`https://barriviera.github.io/JobGrid/`**
 
 ### No seu computador
 
@@ -127,7 +127,6 @@ Outras opções: `multiCity: true` (um link por palavra com todas as cidades da 
 .
 ├── index.html      # o app inteiro
 ├── assets/         # logos e screenshots usados neste README
-├── LICENSE
 └── README.md
 ```
 
@@ -137,6 +136,3 @@ Achou um link que mudou de formato ou quer sugerir um site novo? Abra uma *issue
 
 Pull requests são bem-vindos.
 
-## Licença
-
-[MIT](LICENSE). Use, modifique e compartilhe à vontade.
